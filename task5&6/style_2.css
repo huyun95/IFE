@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+.box{width:100%;height:100%;overflow: hidden;position:fixed;}
+.div-one,h3,table{margin:10px 0;}
+.txt{font-weight:700;}
+table{width:120%;}
+.left{height:100%;width:18%;background:#2189BF;float:left;}
+.left h1{color:#ffffff;font:700 25px Microsoft YaHei;margin:30px 35%;}
+.right{float:left;margin: 20px;}
