@@ -8,7 +8,7 @@
 .nav-list li{float: left;}
 .nav-list li a{color:#ffffff;display: block;padding:10px;}
 /* banner */
-.banner{width:100%;height:250px;background: rgb(31, 211, 31);}
+.banner{width:100%;height:280px;background: rgb(31, 211, 31);}
 .list{position: absolute;right:80px;top:48%;}
 .list > div{
     border:1px solid rgb(1, 49, 1);
